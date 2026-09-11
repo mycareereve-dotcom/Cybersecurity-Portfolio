@@ -21,4 +21,8 @@ This portfolio documents practical exercises, projects and learning activities t
 
 ## Portfolio Projects
 
+### TryHackMe
+
+- [02 – Defensive Security Intro](TryHackMe/02-Defensive-Security-Intro/README.md)
+
 I will continue adding practical exercises and projects as I develop my cybersecurity skills.
