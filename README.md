@@ -28,5 +28,6 @@ This portfolio documents practical exercises, projects and learning activities t
 - [03 – Inside a Computer](TryHackMe/03-Inside-a-Computer/README.md)
 - [04 – Computer Types](TryHackMe/04-Computer-Types/README.md)
 - [05 – Client-Server Basics](TryHackMe/05-Client-Server-Basics/README.md)
-  
+- [06 – Virtualisation Basics](TryHackMe/06-Virtualisation-Basics/README.md)
+
 I will continue adding practical exercises and projects as I develop my cybersecurity skills.
