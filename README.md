@@ -30,5 +30,6 @@ This portfolio documents practical exercises, projects and learning activities t
 - [05 – Client-Server Basics](TryHackMe/05-Client-Server-Basics/README.md)
 - [06 – Virtualisation Basics](TryHackMe/06-Virtualisation-Basics/README.md)
 - [07 – Cloud Computing Fundamentals](TryHackMe/07-Cloud-Computing-Fundamentals/README.md)
-
+- [08 – Operating Systems Introduction](TryHackMe/08-Operating-Systems-Introduction/README.md)
+ 
 I will continue adding practical exercises and projects as I develop my cybersecurity skills.
